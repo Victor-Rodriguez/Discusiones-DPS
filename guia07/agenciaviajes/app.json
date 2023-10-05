@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "agenciaviajes",
+    "slug": "agenciaviajes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "agenciaviajes"
+}
